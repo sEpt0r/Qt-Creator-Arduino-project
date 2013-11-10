@@ -1,0 +1,4 @@
+Makefile
+%ProjectName%.cpp
+%ProjectName%.h
+
